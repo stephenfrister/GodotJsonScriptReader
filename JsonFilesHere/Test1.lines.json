@@ -1,0 +1,57 @@
+[
+  {
+    "text": "Heading",
+    "blockType": "sceneHeading",
+    "id": "defbc073-fe49-4068-a130-880f35f7beec"
+  },
+  {
+    "text": "Name1",
+    "blockType": "character",
+    "id": "70e87000-9148-4b5b-beb9-3a63d0fbfda8"
+  },
+  {
+    "text": "Hello, this is the first line",
+    "blockType": "dialogue",
+    "id": "8642b960-b4d3-49fd-904e-aa87c26d7b50"
+  },
+  {
+    "text": "Name2",
+    "blockType": "character",
+    "id": "4d2a16fb-3ed3-4f3d-8ac7-e35afcbacc7b"
+  },
+  {
+    "text": "This is the second line",
+    "blockType": "dialogue",
+    "id": "bd068074-3c30-4e88-893c-77ac55eee9c4"
+  },
+  {
+    "text": "Name1",
+    "blockType": "character",
+    "id": "cd769ea1-644d-4000-b1c0-2a05349bd158"
+  },
+  {
+    "text": "Back to the first character",
+    "blockType": "dialogue",
+    "id": "c630424d-2c62-48f3-8cab-687ea216e27e"
+  },
+  {
+    "text": "Name2",
+    "blockType": "character",
+    "id": "cfac28cd-a9f1-4ab6-9a00-b596090325fe"
+  },
+  {
+    "text": "Response number two from this",
+    "blockType": "dialogue",
+    "id": "550facf6-351d-4414-8791-0492eda397fa"
+  },
+  {
+    "text": "Name3",
+    "blockType": "character",
+    "id": "34441fc7-5b4e-4b5c-9569-60e1ccd94390"
+  },
+  {
+    "text": "Person three has joined...",
+    "blockType": "dialogue",
+    "id": "91d8f632-8486-4166-91eb-51e6ffe8d2a8"
+  }
+]
